@@ -109,3 +109,9 @@ venv.bak/
 .mypy_cache/
 .dmypy.json
 dmypy.json
+
+# venv
+share/*
+lib/*
+lib64
+bin/*
